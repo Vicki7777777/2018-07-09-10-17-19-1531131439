@@ -1,5 +1,6 @@
 package practice09;
 
+
 public class Klass {
     protected int number;
     protected Student leader;
